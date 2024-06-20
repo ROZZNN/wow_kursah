@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\av5gu\\source\\repos\\wow_kursah\\.github\\workflows\\lint-check.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\lint-check.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\eslint.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-app\\eslint.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\av5gu\\source\\repos\\wow_kursah\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\package-lock.json",
+              "RelativeDocumentMoniker": "my-app\\package-lock.json",
+              "ToolTip": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\package-lock.json",
+              "RelativeToolTip": "my-app\\package-lock.json",
+              "ViewState": "AQIAABs/AAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T19:16:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lint-check.yml",
+              "DocumentMoniker": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\.github\\workflows\\lint-check.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\lint-check.yml",
+              "ToolTip": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\.github\\workflows\\lint-check.yml",
+              "RelativeToolTip": ".github\\workflows\\lint-check.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-20T19:03:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eslint.config.mjs",
+              "DocumentMoniker": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\eslint.config.mjs",
+              "RelativeDocumentMoniker": "my-app\\eslint.config.mjs",
+              "ToolTip": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\my-app\\eslint.config.mjs",
+              "RelativeToolTip": "my-app\\eslint.config.mjs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T18:54:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\av5gu\\source\\repos\\wow_kursah\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-20T18:28:59.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

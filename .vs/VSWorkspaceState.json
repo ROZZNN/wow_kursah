@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\my-app",
+    "\\my-app\\src\\components",
+    "\\my-app\\src\\components\\pages"
+  ],
+  "SelectedNode": "\\my-app\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
