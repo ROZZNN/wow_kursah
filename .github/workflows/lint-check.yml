@@ -15,7 +15,7 @@ jobs:
               run: cd my-app
             
             - name: Install dependencies
-              run: npm si
+              run: npm ci
 
             - name: Check lint
               run: npx eslint .
