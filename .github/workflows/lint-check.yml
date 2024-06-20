@@ -1,0 +1,22 @@
+name: linter-check
+on: push
+jobs:
+    build:
+        runs-on: ubuntu-latest
+            
+        steps:
+            - name: Cloning rep
+              uses: actions/checkout@v3
+
+            - name: Setup node
+              uses: actions/setup-node@v3
+
+            - name: Go app
+              run: cd my-app
+            
+            - name: Install dependencies
+              run: npm si
+
+            - name: Check lint
+              run: npx eslint .
+

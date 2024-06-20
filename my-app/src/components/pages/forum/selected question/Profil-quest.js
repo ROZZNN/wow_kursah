@@ -1,11 +1,11 @@
-export default () => {
-    return(
-        <div class="profile">
-            <img></img>
-            <h2>NAME</h2>
-            <div class="about_profil">
-                <p>bla bla bla</p>
-            </div>
-        </div>
-    );
+export default function () {
+  return (
+    <div className="profile">
+      <img />
+      <h2>NAME</h2>
+      <div className="about_profil">
+        <p>bla bla bla</p>
+      </div>
+    </div>
+  );
 }
