@@ -1,0 +1,10 @@
+
+.registration {
+    background-color: grey;
+}
+.body {
+    background-image: './bacg.jpg';
+    background-image: url('bacg.jpeg');
+    /* background-color: grey; */
+    background-size: 2560px, 2660px;
+  }

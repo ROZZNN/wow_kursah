@@ -1,0 +1,35 @@
+.slider{
+    width: 20%; /* Adjust as needed */
+    background-color: rgb(131, 93, 76, 100);
+    color: black;
+    border: black;
+    border-radius: 26px;
+    height: 40vh;
+}
+.minifor  {
+    text-decoration: none;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 5px;
+}
+.slider-alt{
+    width: 20%; /* Adjust as needed */
+    background-color: rgb(131, 93, 76, 100);
+    color: black;
+    border: black;
+    border-radius: 26px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: left; */  
+    height: 40vh;
+}
+.journal_item_title {
+    margin-left: 2vh;
+}
+li {
+    margin-top: 2vh;
+    border-style: dashed;
+    border-color: rgb(131, 93, 76, 100);
+    border:1px;
+}

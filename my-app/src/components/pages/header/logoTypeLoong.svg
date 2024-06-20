@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3821.65 1551.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 49.59px;
+      }
+
+      .cls-2 {
+        font-family: SegoeUIVariable-BoldDisplay, 'Segoe UI Variable';
+        font-size: 500px;
+        font-variation-settings: 'wght' 700, 'opsz' 36;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m230.54,287.49v674.77s-15,232.23,455,538.23c288-160,460-336,473-498,12.96-161.48,1.89-715,1.89-715,0,0-278.89-61-482.89-61s-447,61-447,61Z"/>
+  <polygon class="cls-1" points="347.54 515.49 498.54 1058.49 586.07 1058.49 712.66 664.51 792.45 1058.49 926.5 1058.49 1047.54 534.49 894.54 1013.49 820.54 1015.49 741.54 557.49 697.54 554.49 564.54 1009.49 515.54 1009.49 347.54 515.49"/>
+  <polygon class="cls-1" points="36.24 1355.87 305.24 1158.87 389.54 1279.49 172.07 1514.38 36.24 1355.87"/>
+  <polygon class="cls-1" points="1160.54 460.49 1296.54 343.49 1156.54 194.49 1358.54 34.49 1658.54 396.49 1511.54 596.49 1364.54 438.49 1164.54 647.49 1160.54 460.49"/>
+  <text class="cls-2" transform="translate(1642.91 716.93)"><tspan x="0" y="0">GUILD</tspan><tspan x="0" y="600">MASTER</tspan></text>
+</svg>

@@ -1,0 +1,37 @@
+.ava {
+    border-radius: 3%;
+    height: 130px;
+    width: 130px;
+    margin-left: 45vh;
+    margin-top: 5vh;
+}
+.name {
+    margin: 5%;
+    color:white;
+    margin-right: 25%;
+}
+.about_profil{
+    margin-top:5%;
+    color:white;
+}
+.comment {
+    height: 700px;
+    width: 800px;
+    margin-top: 30%;
+    justify-content: center;
+}
+.profile {
+    border-radius: 2%;
+    margin: 10%;
+    margin-left: 13%;
+    height: 50vh;
+    width: 130vh;
+    display: flex;
+    background-color: rgb(131, 93, 76, 100);
+    justify-content: center;
+    text-align: center;
+    vertical-align:bottom;
+}
+.about_profil {
+    margin-right: 20%;
+}

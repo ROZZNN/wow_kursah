@@ -1,0 +1,44 @@
+.userreg {
+    background-color: rgb(97, 69, 55) ;
+}
+.block {
+    background-color: rgb(131, 93, 76, 100);
+    color: white;
+    margin-left: 5vh;
+    border: black;
+    border-radius: 3%;
+    display: flex;
+    justify-content: center left;
+    align-items: center;
+    margin-top: 20vh;
+    width: 100vh;
+    margin-left: 20%;
+    height: 60vh;
+}
+.datauser {
+    display: flex;
+    justify-content: top;
+    width: 100%;
+}
+.text {
+    display:flex;
+    justify-content: center;
+    align-items: bottom;
+}
+
+.block .datauser form {
+    width: 100%;
+    padding: 10px;
+}
+
+.block .datauser input {
+    width: 100%;
+    /* margin: 10px; */
+    background-color: rgb(131, 93, 76, 100);
+    border: 10px;
+    border-radius: 15px;
+    border-color: black;
+}
+input {
+    height: 2.5vh;
+}

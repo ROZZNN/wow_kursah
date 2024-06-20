@@ -1,0 +1,18 @@
+.about {
+    background-color: rgb(77, 77, 77, 100);
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: left; */
+    flex-shrink: 0;
+    flex-grow: 1;  
+    min-height: 25vh;
+    width: 100%;
+    width: 98%;
+    margin-top: 30vh;
+}
+.decription {
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}
